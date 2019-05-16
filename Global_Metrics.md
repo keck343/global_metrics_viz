@@ -1,7 +1,3 @@
-Global Metrics of Economic Prosperity and Health
-================
-Quinn Keck
-5/15/2019
 
 Distribution of Credit Scores and Infant Mortality Rate
 =======================================================
