@@ -120,4 +120,4 @@ Global Competitive Index Dataset –
 
 Country’s Universal Health Care (Joined with Global Competitive Index Data) –
 
-<https://truecostblog.com/2009/08/09/countries-with-universal-healthcare-by-date/> \*\*
+<https://truecostblog.com/2009/08/09/countries-with-universal-healthcare-by-date/>
