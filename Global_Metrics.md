@@ -1,8 +1,3 @@
-Global Metrics of Economic Prosperity and Health
-================
-Quinn Keck
-5/15/2019
-
 Distribution of Credit Scores and Infant Mortality Rate
 =======================================================
 
@@ -17,8 +12,6 @@ By Type of Universal Health Care
 
 <img src="Global_Metrics_files/figure-markdown_github/unnamed-chunk-4-1.png" style="display: block; margin: auto;" />
 
-Final Graph with Labels
-=======================
 
 <img src="Global_Metrics_files/figure-markdown_github/unnamed-chunk-5-1.png" style="display: block; margin: auto;" />
 
