@@ -17,8 +17,6 @@ By Type of Universal Health Care
 
 <img src="Global_Metrics_files/figure-markdown_github/unnamed-chunk-4-1.png" style="display: block; margin: auto;" />
 
-Final Graph with Labels
-=======================
 
 <img src="Global_Metrics_files/figure-markdown_github/unnamed-chunk-5-1.png" style="display: block; margin: auto;" />
 
