@@ -90,19 +90,19 @@ healthcare %>% ggplot() + stat_smooth(aes(x = Infant_Mortality,
     y = Credit_Rating), method = "loess", col = "gray", alpha = 0.1) + 
     scale_color_manual(values = c("navyblue", "chartreuse3")) + 
     # geom_label(data = bottom_credits, aes(x=Infant_Mortality,
-# y=Credit_Rating_Minus_3, label = Name), colour =
-# 'springgreen4', size = 2, fontface = 'bold', alpha = 0.9)
-# geom_label(data = USA, aes(x=Position, y=Credit_Rating,
-# label = Name), colour = 'darkblue', size = 2, fontface =
-# 'bold', alpha = 0.9) + geom_label(data = China,
-# aes(x=Position, y=Credit_Rating, label = Name), colour =
-# 'darkblue', size = 2, fontface = 'bold', alpha = 0.9) +
-# geom_label(data = India, aes(x=Position, y=Credit_Rating,
-# label = Name), colour = 'darkblue', size = 2, fontface =
-# 'bold', alpha = 0.9) + geom_label(data = Nigeria,
-# aes(x=Position, y=Credit_Rating_Plus_One, label = Name),
-# colour = 'darkblue', size = 2, fontface = 'bold', alpha =
-# 0.9) +
+ y=Credit_Rating_Minus_3, label = Name), colour =
+ 'springgreen4', size = 2, fontface = 'bold', alpha = 0.9)
+ geom_label(data = USA, aes(x=Position, y=Credit_Rating,
+ label = Name), colour = 'darkblue', size = 2, fontface =
+ 'bold', alpha = 0.9) + geom_label(data = China,
+ aes(x=Position, y=Credit_Rating, label = Name), colour =
+ 'darkblue', size = 2, fontface = 'bold', alpha = 0.9) +
+ geom_label(data = India, aes(x=Position, y=Credit_Rating,
+ label = Name), colour = 'darkblue', size = 2, fontface =
+ 'bold', alpha = 0.9) + geom_label(data = Nigeria,
+ aes(x=Position, y=Credit_Rating_Plus_One, label = Name),
+ colour = 'darkblue', size = 2, fontface = 'bold', alpha =
+ 0.9) +
 geom_point(aes(x = Infant_Mortality, y = Credit_Rating, colour = Heathcare, 
     size = GDP), alpha = 0.5) + labs(title = "Capitalism Will Not Save Infants", 
     subtitle = "Low or High Credit Scores, Countries with Universal Healthcare Have the Lowest Infant Mortality Rates", 
