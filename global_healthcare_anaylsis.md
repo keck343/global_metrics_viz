@@ -3,9 +3,6 @@ Global Metrics of Economic Prosperity and Health
 Quinn Keck
 5/15/2019
 
-Introduction
-============
-
 The Global Competitiveness Score dataset from the World Economic Forum compares a variety of metrics from economics to healthcare indicators. One such metric is a credit rating for each country that on a scale of 0 to 100 is computed as an average of Fitch, Standards and Poor’s (S&P) and Moody’s credit ratings. The following graphs explore how country’s economies affect infant mortality by looking at the distributions of these outcomes and then their correlations. While it would be expected that wealth is generally correlated with lower infant mortality rates, the outliers are of particular interest.
 
 Distribution of Credit Scores and Infant Mortality Rates
